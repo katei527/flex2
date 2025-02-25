@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Moon+Dance&display=swap');
+
+#center{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+*{
+    font-family: "Moon Dance", serif;
+
+}
